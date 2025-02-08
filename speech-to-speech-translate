@@ -1,4 +1,4 @@
-auto-translate/
+speech-to-speech-translate/
 │
 ├── app.py
 ├── requirements.txt
