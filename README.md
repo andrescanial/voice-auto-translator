@@ -6,5 +6,5 @@ Ito ay isang simpleng application na awtomatikong nagsasalin ng sinasalitang wik
 
 1. **I-clone ang repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/andrescanial/voice-auto-translator.git>
    cd speech-to-speech-translate
